@@ -1,0 +1,13 @@
+{
+  "Name": "Sticky Ring",
+  "Description": "A ring that is sticky to the touch, it smells incredibly sweet.",
+  "Edibility": -300,
+  "Price": 0,
+  "Recipe": null,
+  "NameLocalization": {
+     "zh": "粘液之戒"
+  },
+  "DescriptionLocalization": {
+      "zh": "摸起来很粘的戒指，闻起来非常香。"
+  }
+}
