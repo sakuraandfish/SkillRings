@@ -1,0 +1,159 @@
+[
+	{
+		"Id": "SkillRings.DustyRing",
+		"GroupId": "SkillRings.Tier3Rings",
+		"Title": "DustyRing.title",
+		"Text": "DustyRing.text",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Dusty Ring"
+			}
+		],
+		"WhichBG": 0,
+		"Repeatable": false,
+		"Seasons": ["spring", "summer", "fall", "winter"],
+		"FriendshipConditions": [
+			{
+				"NpcName": "Willy",
+				"FriendshipLevel": 10,
+			}
+		],
+		"SkillConditions": [
+			{ "SkillName": "Fishing", "SkillLevel": 10 }
+		],
+		"RandomChance": 0.1
+	},
+	{
+		"Id": "SkillRings.GrassyRing",
+		"GroupId": "SkillRings.Tier3Rings",
+		"Title": "GrassyRing.title",
+		"Text": "GrassyRing.text",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Grassy Ring"
+			}
+		],
+		"WhichBG": 0,
+		"Repeatable": false,
+		"Seasons": ["spring", "summer", "fall", "winter"],
+		"FriendshipConditions": [
+			{
+				"NpcName": "Marnie",
+				"FriendshipLevel": 10,
+			}
+		],
+		"SkillConditions": [
+			{ "SkillName": "Farming", "SkillLevel": 10 }
+		],
+		"RandomChance": 0.1
+	},
+	{
+		"Id": "SkillRings.CursedRing",
+		"GroupId": "SkillRings.Tier3Rings",
+		"Title": "CursedRing.title",
+		"Text": "CursedRing.text",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Cursed Ring"
+			}
+		],
+		"WhichBG": 0,
+		"Repeatable": false,
+		"Seasons": ["spring", "summer", "fall", "winter"],
+		"FriendshipConditions": [
+			{
+				"NpcName": "Abigail",
+				"FriendshipLevel": 8,
+			}
+		],
+		"SkillConditions": [
+			{ "SkillName": "Combat", "SkillLevel": 10 }
+		],
+		"RandomChance": 0.1
+	},
+	{
+		"Id": "SkillRings.StickyRing",
+		"GroupId": "SkillRings.Tier3Rings",
+		"Title": "StickyRing.title",
+		"Text": "StickyRing.text",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Sticky Ring"
+			}
+		],
+		"WhichBG": 0,
+		"Repeatable": false,
+		"Seasons": ["spring", "summer", "fall", "winter"],
+		"FriendshipConditions": [
+			{
+				"NpcName": "Linus",
+				"FriendshipLevel": 10,
+			}
+		],
+		"SkillConditions": [
+			{ "SkillName": "Foraging", "SkillLevel": 10 }
+		],
+		"RandomChance": 0.1
+	},
+	{
+		"Id": "SkillRings.StoneRing",
+		"GroupId": "SkillRings.Tier3Rings",
+		"Title": "StoneRing.title",
+		"Text": "StoneRing.text",
+		"Attachments": [
+			{
+				"Type": "Object",
+				"Name": "Stone Ring"
+			}
+		],
+		"WhichBG": 0,
+		"Repeatable": false,
+		"Seasons": ["spring", "summer", "fall", "winter"],
+		"FriendshipConditions": [
+			{
+				"NpcName": "Dwarf",
+				"FriendshipLevel": 10,
+			}
+		],
+		"SkillConditions": [
+			{ "SkillName": "Mining", "SkillLevel": 10 }
+		],
+		"RandomChance": 0.1
+	},
+	{
+		"Id": "SkillRings.DeepRootsRecipe",
+		"GroupId": "SkillRings.ForagingRing",
+		"Title": "RingofDeepRoots.title",
+		"Text": "RingofDeepRoots.text",
+		"Recipe": "Ring of Deep Roots",
+		"WhichBG": 0,
+		"Repeatable": false,
+		"Seasons": ["spring", "summer", "fall", "winter"],
+		"FriendshipConditions": [
+			{
+				"NpcName": "Linus",
+				"FriendshipLevel": 2,
+			}
+		],
+	},
+	{
+		"Id": "SkillRings.GathererRecipe",
+		"GroupId": "SkillRings.ForagingRing",
+		"Title": "RingoftheGatherer.title",
+		"Text": "RingoftheGatherer.text",
+		"Recipe": "Ring of the Gatherer",
+		"WhichBG": 0,
+		"Repeatable": false,
+		"Seasons": ["spring", "summer", "fall", "winter"],
+		"FriendshipConditions": [
+			{
+				"NpcName": "Linus",
+				"FriendshipLevel": 5,
+			}
+		],
+	}
+]
