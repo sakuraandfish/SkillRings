@@ -1,0 +1,13 @@
+{
+  "Name": "Elusive Ring",
+  "Description": "Is this a ring, or is it just an illusion? (Only buy one, any extras can't be used and will just waste money)",
+  "Edibility": -300,
+  "Price": 0,
+  "Recipe": null,
+  "NameLocalization": {
+     "zh": "难以捉摸的戒指"
+  },
+  "DescriptionLocalization": {
+      "zh": "这是戒指，还是只是幻觉？ （只买一个，任何多余的都不能用，只会浪费钱）"
+  }
+}
