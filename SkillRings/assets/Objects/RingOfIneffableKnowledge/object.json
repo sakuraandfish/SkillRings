@@ -1,0 +1,14 @@
+{
+  "Name": "Ring of Ineffable Knowledge",
+  "Description": "While wearing this you can comprehend anything at a glance, greatly boosting experience gain.",
+  "Category": "Ring",
+  "Edibility": -300,
+  "Price": 50000,
+  "Recipe": null,
+  "NameLocalization": {
+     "zh": "难以言喻的知识戒指"
+  },
+  "DescriptionLocalization": {
+      "zh": "佩戴此物一目了然，大大提升经验值。"
+  }
+}
