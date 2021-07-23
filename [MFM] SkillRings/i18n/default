@@ -1,0 +1,18 @@
+{
+	//Title
+	"DustyRing.title":"Dusty Ring",
+	"GrassyRing.title":"GrassyRing",
+	"CursedRing.title":"CursedRing",
+	"StickyRing.title":"StickyRing",
+	"StoneRing.title":"StoneRing",
+	"RingofDeepRoots.title":"RingofDeepRoots",
+	"RingoftheGatherer.title":"RingoftheGatherer",
+	//Text
+	"DustyRing.text":"Ahoy there!^I found this lyin' around the shop and figured you could put it to use.^-Willy",
+	"GrassyRing.text":"Hello @,^I found my cows trying to eat this but it looked to fancy to throw away.^-Marnie",
+	"CursedRing.text":"Hey @!^I found this in the mines but didn't want to try it on.^-Abigail",
+	"StickyRing.text":"I found this stuck to a tree, but I don't want it.^-Linus",
+	"StoneRing.text":"You have proven yourself as a miner so here, a gift.^-Dwarf",
+	"RingofDeepRoots.text":"Hello,^Although some of this is hard to come by, this helped me in the past.^-Linus",
+	"RingoftheGatherer.text":"Hello Friend,^I managed to make one of these a while ago and it helped me greatly.^-Linus",
+}
