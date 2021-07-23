@@ -1,0 +1,14 @@
+{
+  "Name": "Ring of the Legendary Angler",
+  "Description": "Call upon the best fisherman of the past to increase your skill.",
+  "Category": "Ring",
+  "Edibility": -300,
+  "Price": 50000,
+  "Recipe": null,
+  "NameLocalization": {
+     "zh": "传奇垂钓者之戒"
+  },
+  "DescriptionLocalization": {
+      "zh": "召唤过去最好的渔夫来提高你的技能。"
+  }
+}
