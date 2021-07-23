@@ -1,0 +1,13 @@
+{
+  "Name": "Stone Ring",
+  "Description": "A ring made out of stone, it sounds like something's inside.",
+  "Edibility": -300,
+  "Price": 0,
+  "Recipe": null,
+  "NameLocalization": {
+     "zh": "石戒指"
+  },
+  "DescriptionLocalization": {
+      "zh": "一个石头做的戒指，听起来像是里面有什么东西。"
+  }
+}
