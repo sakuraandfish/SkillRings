@@ -1,0 +1,13 @@
+{
+  "Name": "Grassy Ring",
+  "Description": "A ring covered in grass, too bad I don't eat that.",
+  "Edibility": -300,
+  "Price": 0,
+  "Recipe": null,
+  "NameLocalization": {
+     "zh": "草环"
+  },
+  "DescriptionLocalization": {
+      "zh": "一个长满草的戒指，可惜我不吃那个。"
+  }
+}
