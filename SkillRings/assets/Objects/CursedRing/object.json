@@ -1,0 +1,13 @@
+{
+  "Name": "Cursed Ring",
+  "Description": "You probably shouldn't put it on, it looks Grimm.",
+  "Edibility": -300,
+  "Price": 0,
+  "Recipe": null,
+  "NameLocalization": {
+     "zh": "诅咒指环"
+  },
+  "DescriptionLocalization": {
+      "zh": "你最好别戴上，看起来像格林。"
+  }
+}
