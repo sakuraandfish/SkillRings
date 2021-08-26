@@ -1,18 +1,17 @@
 {
-	//Title
-	"DustyRing.title":"获得尘土飞扬之环",
-	"GrassyRing.title":"获得草环",
-	"CursedRing.title":"获得诅咒指环",
-	"StickyRing.title":"获得粘液之戒",
-	"StoneRing.title":"获得石戒指",
-	"RingofDeepRoots.title":"获得深根之戒合成图纸",
-	"RingoftheGatherer.title":"获得采集者之戒合成图纸",
-	//Text
-	"DustyRing.text":"嘿嘿！^我在商店里发现了它，我想你可以用它。^-威利",
-	"GrassyRing.text":"你好@，^我发现我的奶牛想吃这个，但它看起来很想扔掉。^-玛妮",
-	"CursedRing.text":"嘿@！^我在矿井里发现了这个，但不想试用。^-阿比盖尔",
+	"DustyRing.title":"布满灰尘的戒指",
+	"GrassyRing.title":"长满草的戒指",
+	"CursedRing.title":"被诅咒的戒指",
+	"StickyRing.title":"粘粘的戒指",
+	"StoneRing.title":"石头雕的戒指",
+	"RingofDeepRoots.title":"深根之戒",
+	"RingoftheGatherer.title":"采集者之戒",
+
+	"DustyRing.text":"嘿！^我在商店里找到了这个，或许你可以把它派上用场。^-威利",
+	"GrassyRing.text":"你好@，^我的奶牛之前在试图吃这个，但它这么花哨扔掉可太可惜了。^-玛妮",
+	"CursedRing.text":"嘿@！^我在井里发现了这个，但并不想戴上试试。^-阿比盖尔",
 	"StickyRing.text":"我发现它粘在一棵树上，但我不想要它。^-莱纳斯",
-	"StoneRing.text":"你已经证明了自己是一名矿工，所以在这里，一份礼物。^-矮人",
-	"RingofDeepRoots.text":"你好，^虽然其中一些很难获得，但这在过去帮助了我。^-莱纳斯",
-	"RingoftheGatherer.text":"你好，朋友，^我不久前设法制作了其中一个，这对我帮助很大。^-莱纳斯",
+	"StoneRing.text":"你已经证明了自己是一名矿工，所以这里，给你一份礼物。^-矮人",
+	"RingofDeepRoots.text":"你好，^虽然这其中有一些很难获得，但这在过去帮助了我。^-莱纳斯",
+	"RingoftheGatherer.text":"你好啊朋友，^我不久前成果制作了其中一个，它对我帮助很大。^-莱纳斯",
 }
